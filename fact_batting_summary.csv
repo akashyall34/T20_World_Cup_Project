@@ -1,0 +1,700 @@
+match,teamInnings,battingPos,batsmanName,dismissal,runs,balls,4s,6s,SR,out/not_out
+Namibia Vs Sri Lanka,Namibia,1,Michael van Lingen,c Pramod Madushan b Chameera,3,6,0,0,50.00,out
+Namibia Vs Sri Lanka,Namibia,2,Divan la Cock,c Shanaka b Pramod Madushan,9,9,1,0,100.00,out
+Namibia Vs Sri Lanka,Namibia,3,Jan Nicol Loftie-Eaton,c â€ Mendis b Karunaratne,20,12,1,2,166.66,out
+Namibia Vs Sri Lanka,Namibia,4,Stephan Baard,c DM de Silva b Pramod Madushan,26,24,2,0,108.33,out
+Namibia Vs Sri Lanka,Namibia,5,Gerhard Erasmus(c),c Gunathilaka b PWH de Silva,20,24,0,0,83.33,out
+Namibia Vs Sri Lanka,Namibia,6,Jan Frylinck,run out (Gunathilaka/â€ Mendis),44,28,4,0,157.14,out
+Namibia Vs Sri Lanka,Namibia,7,David Wiese,c â€ Mendis b Theekshana,0,1,0,0,0.00,out
+Namibia Vs Sri Lanka,Namibia,8,JJ Smit,,31,16,2,2,193.75,not_out
+Namibia Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,c Smit b Shikongo,9,10,1,0,90.00,out
+Namibia Vs Sri Lanka,Sri Lanka,2,Kusal Mendisâ€ ,c â€ Green b Wiese,6,6,0,0,100.00,out
+Namibia Vs Sri Lanka,Sri Lanka,3,Dhananjaya de Silva,c Shikongo b Frylinck,12,11,1,0,109.09,out
+Namibia Vs Sri Lanka,Sri Lanka,4,Danushka Gunathilaka,c â€ Green b Shikongo,0,1,0,0,0.00,out
+Namibia Vs Sri Lanka,Sri Lanka,5,Bhanuka Rajapaksa,c la Cock b Scholtz,20,21,2,0,95.23,out
+Namibia Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka(c),c â€ Green b Frylinck,29,23,2,1,126.08,out
+Namibia Vs Sri Lanka,Sri Lanka,7,Wanindu Hasaranga de Silva,c Loftie-Eaton b Scholtz,4,8,0,0,50.00,out
+Namibia Vs Sri Lanka,Sri Lanka,8,Chamika Karunaratne,c Baard b Smit,5,8,0,0,62.50,out
+Namibia Vs Sri Lanka,Sri Lanka,9,Pramod Madushan,run out (van Lingen/â€ Green),0,0,0,0,-,out
+Namibia Vs Sri Lanka,Sri Lanka,10,Dushmantha Chameera,c Erasmus b Wiese,8,15,0,0,53.33,out
+Namibia Vs Sri Lanka,Sri Lanka,11,Maheesh Theekshana,,11,11,0,1,100.00,not_out
+U.A.E. Vs Netherlands,U.A.E.,1,Chirag Suri,c â€ Edwards b van der Merwe,12,20,1,0,60.00,out
+U.A.E. Vs Netherlands,U.A.E.,2,Muhammad Waseem,c Pringle b Klaassen,41,47,1,2,87.23,out
+U.A.E. Vs Netherlands,U.A.E.,3,Kashif Daud, b Pringle,15,14,0,1,107.14,out
+U.A.E. Vs Netherlands,U.A.E.,4,Vriitya Aravindâ€ ,c Klaassen b de Leede,18,21,0,0,85.71,out
+U.A.E. Vs Netherlands,U.A.E.,5,Zawar Farid,run out (Ackermann/â€ Edwards),2,4,0,0,50.00,out
+U.A.E. Vs Netherlands,U.A.E.,6,Basil Hameed,c van der Merwe b de Leede,4,4,1,0,100.00,out
+U.A.E. Vs Netherlands,U.A.E.,7,Chundangapoyil Rizwan(c), b de Leede,1,2,0,0,50.00,out
+U.A.E. Vs Netherlands,U.A.E.,8,Aayan Afzal Khan,c Cooper b Klaassen,5,7,0,0,71.42,out
+U.A.E. Vs Netherlands,U.A.E.,9,Karthik Meiyappan,,0,0,0,0,-,not_out
+U.A.E. Vs Netherlands,U.A.E.,10,Junaid Siddique,,0,1,0,0,0.00,not_out
+U.A.E. Vs Netherlands,Netherlands,1,Vikramjit Singh, b Basil Hameed,10,7,2,0,142.85,out
+U.A.E. Vs Netherlands,Netherlands,2,Max O'Dowd, b Junaid Siddique,23,18,3,1,127.77,out
+U.A.E. Vs Netherlands,Netherlands,3,Bas de Leede,c Rizwan b Meiyappan,14,18,1,0,77.77,out
+U.A.E. Vs Netherlands,Netherlands,4,Colin Ackermann,c Junaid Siddique b Aayan Afzal Khan,17,19,1,0,89.47,out
+U.A.E. Vs Netherlands,Netherlands,5,Tom Cooper,lbw b Junaid Siddique,8,16,0,0,50.00,out
+U.A.E. Vs Netherlands,Netherlands,6,Scott Edwards(c)â€ ,,16,19,0,0,84.21,not_out
+U.A.E. Vs Netherlands,Netherlands,7,Roelof van der Merwe, b Junaid Siddique,0,2,0,0,0.00,out
+U.A.E. Vs Netherlands,Netherlands,8,Tim Pringle, b Zahoor Khan,15,16,0,0,93.75,out
+U.A.E. Vs Netherlands,Netherlands,9,Logan van Beek,,4,4,0,0,100.00,not_out
+Scotland Vs West Indies,Scotland,1,George Munsey,,66,53,9,0,124.52,not_out
+Scotland Vs West Indies,Scotland,2,Michael Jones, b Holder,20,17,3,0,117.64,out
+Scotland Vs West Indies,Scotland,3,Matthew Crossâ€ ,c Brooks b Holder,3,5,0,0,60.00,out
+Scotland Vs West Indies,Scotland,4,Richie Berrington(c),c Mayers b Joseph,16,14,0,1,114.28,out
+Scotland Vs West Indies,Scotland,5,Calum MacLeod,c King b Smith,23,14,4,0,164.28,out
+Scotland Vs West Indies,Scotland,6,Michael Leask, b Joseph,4,6,0,0,66.66,out
+Scotland Vs West Indies,Scotland,7,Chris Greaves,,16,11,2,0,145.45,not_out
+Scotland Vs West Indies,West Indies,1,Kyle Mayers,c Munsey b Davey,20,13,3,1,153.84,out
+Scotland Vs West Indies,West Indies,2,Evin Lewis,c Jones b Wheal,14,13,1,1,107.69,out
+Scotland Vs West Indies,West Indies,3,Brandon King, b Watt,17,15,3,0,113.33,out
+Scotland Vs West Indies,West Indies,4,Nicholas Pooran(c)â€ , b Leask,5,9,0,0,55.55,out
+Scotland Vs West Indies,West Indies,5,Shamarh Brooks,c Leask b Wheal,4,9,0,0,44.44,out
+Scotland Vs West Indies,West Indies,6,Rovman Powell,c MacLeod b Leask,5,6,0,0,83.33,out
+Scotland Vs West Indies,West Indies,7,Jason Holder,c Greaves b Sharif,38,33,4,1,115.15,out
+Scotland Vs West Indies,West Indies,8,Akeal Hosein,run out (â€ Cross/Leask),1,1,0,0,100.00,out
+Scotland Vs West Indies,West Indies,9,Alzarri Joseph,c â€ Cross b Watt,0,1,0,0,0.00,out
+Scotland Vs West Indies,West Indies,10,Odean Smith,c Greaves b Watt,5,8,0,0,62.50,out
+Scotland Vs West Indies,West Indies,11,Obed McCoy,,2,3,0,0,66.66,not_out
+Zimbabwe Vs Ireland,Zimbabwe,1,Regis Chakabvaâ€ ,c â€ Tucker b Little,0,2,0,0,0.00,out
+Zimbabwe Vs Ireland,Zimbabwe,2,Craig Ervine(c),st â€ Tucker b Simi Singh,9,12,1,0,75.00,out
+Zimbabwe Vs Ireland,Zimbabwe,3,Wessly Madhevere,c Delany b Little,22,19,4,0,115.78,out
+Zimbabwe Vs Ireland,Zimbabwe,4,Sean Williams,c Tector b Simi Singh,12,11,0,1,109.09,out
+Zimbabwe Vs Ireland,Zimbabwe,5,Sikandar Raza, b Adair,82,48,5,5,170.83,out
+Zimbabwe Vs Ireland,Zimbabwe,6,Milton Shumba,c Little b Adair,16,14,1,0,114.28,out
+Zimbabwe Vs Ireland,Zimbabwe,7,Ryan Burl,c Adair b Little,1,4,0,0,25.00,out
+Zimbabwe Vs Ireland,Zimbabwe,8,Luke Jongwe,,20,10,3,0,200.00,not_out
+Zimbabwe Vs Ireland,Ireland,1,Paul Stirling, b Ngarava,0,2,0,0,0.00,out
+Zimbabwe Vs Ireland,Ireland,2,Andy Balbirnie(c),c Ervine b Muzarabani,3,4,0,0,75.00,out
+Zimbabwe Vs Ireland,Ireland,3,Lorcan Tuckerâ€ , b Ngarava,11,11,2,0,100.00,out
+Zimbabwe Vs Ireland,Ireland,4,Harry Tector,c Ervine b Muzarabani,1,4,0,0,25.00,out
+Zimbabwe Vs Ireland,Ireland,5,Curtis Campher, b Williams,27,22,1,0,122.72,out
+Zimbabwe Vs Ireland,Ireland,6,George Dockrell, b Sikandar Raza,24,20,3,0,120.00,out
+Zimbabwe Vs Ireland,Ireland,7,Gareth Delany,c Shumba b Chatara,24,20,1,1,120.00,out
+Zimbabwe Vs Ireland,Ireland,8,Mark Adair,c Sikandar Raza b Muzarabani,9,10,0,1,90.00,out
+Zimbabwe Vs Ireland,Ireland,9,Simi Singh, b Chatara,0,1,0,0,0.00,out
+Zimbabwe Vs Ireland,Ireland,10,Barry McCarthy,,22,16,1,2,137.50,not_out
+Zimbabwe Vs Ireland,Ireland,11,Josh Little,,7,11,1,0,63.63,not_out
+Namibia Vs Netherlands,Namibia,1,Michael van Lingen,c de Leede b Ackermann,20,19,3,0,105.26,out
+Namibia Vs Netherlands,Namibia,2,Divan la Cock,c de Leede b Pringle,0,2,0,0,0.00,out
+Namibia Vs Netherlands,Namibia,3,Stephan Baard,c Klaassen b van der Merwe,19,22,0,0,86.36,out
+Namibia Vs Netherlands,Namibia,4,Jan Nicol Loftie-Eaton,c â€ Edwards b van Meekeren,0,2,0,0,0.00,out
+Namibia Vs Netherlands,Namibia,5,Jan Frylinck,c van Meekeren b de Leede,43,48,1,1,89.58,out
+Namibia Vs Netherlands,Namibia,6,Gerhard Erasmus(c), b de Leede,16,18,0,0,88.88,out
+Namibia Vs Netherlands,Namibia,7,David Wiese,,11,5,1,0,220.00,not_out
+Namibia Vs Netherlands,Namibia,8,JJ Smit,,5,4,1,0,125.00,not_out
+Namibia Vs Netherlands,Netherlands,1,Max O'Dowd,run out (Erasmus),35,35,1,1,100.00,out
+Namibia Vs Netherlands,Netherlands,2,Vikramjit Singh,c Loftie-Eaton b Scholtz,39,31,3,2,125.80,out
+Namibia Vs Netherlands,Netherlands,3,Bas de Leede,,30,30,2,0,100.00,not_out
+Namibia Vs Netherlands,Netherlands,4,Tom Cooper,c van Lingen b Smit,6,6,1,0,100.00,out
+Namibia Vs Netherlands,Netherlands,5,Colin Ackermann,c Erasmus b Smit,0,2,0,0,0.00,out
+Namibia Vs Netherlands,Netherlands,6,Scott Edwards(c)â€ ,c Loftie-Eaton b Frylinck,1,5,0,0,20.00,out
+Namibia Vs Netherlands,Netherlands,7,Tim Pringle,,8,9,0,0,88.88,not_out
+Sri Lanka Vs U.A.E.,Sri Lanka,1,Pathum Nissanka,c Basil Hameed b Zahoor Khan,74,60,6,2,123.33,out
+Sri Lanka Vs U.A.E.,Sri Lanka,2,Kusal Mendisâ€ ,lbw b Aryan Lakra,18,13,2,0,138.46,out
+Sri Lanka Vs U.A.E.,Sri Lanka,3,Dhananjaya de Silva,run out (Muhammad Waseem/Aayan Afzal Khan),33,21,3,1,157.14,out
+Sri Lanka Vs U.A.E.,Sri Lanka,4,Bhanuka Rajapaksa,c Kashif Daud b Meiyappan,5,8,0,0,62.50,out
+Sri Lanka Vs U.A.E.,Sri Lanka,5,Charith Asalanka,c â€ Aravind b Meiyappan,0,1,0,0,0.00,out
+Sri Lanka Vs U.A.E.,Sri Lanka,6,Dasun Shanaka(c), b Meiyappan,0,1,0,0,0.00,out
+Sri Lanka Vs U.A.E.,Sri Lanka,7,Wanindu Hasaranga de Silva,c Basil Hameed b Aayan Afzal Khan,2,3,0,0,66.66,out
+Sri Lanka Vs U.A.E.,Sri Lanka,8,Chamika Karunaratne,c Kashif Daud b Zahoor Khan,8,11,1,0,72.72,out
+Sri Lanka Vs U.A.E.,Sri Lanka,9,Pramod Madushan,,1,1,0,0,100.00,not_out
+Sri Lanka Vs U.A.E.,Sri Lanka,10,Dushmantha Chameera,,1,1,0,0,100.00,not_out
+Sri Lanka Vs U.A.E.,U.A.E.,1,Muhammad Waseem, b Chameera,2,4,0,0,50.00,out
+Sri Lanka Vs U.A.E.,U.A.E.,2,Chirag Suri, b Pramod Madushan,14,19,3,0,73.68,out
+Sri Lanka Vs U.A.E.,U.A.E.,3,Aryan Lakra, b Chameera,1,3,0,0,33.33,out
+Sri Lanka Vs U.A.E.,U.A.E.,4,Chundangapoyil Rizwan(c),c Rajapaksa b Chameera,1,3,0,0,33.33,out
+Sri Lanka Vs U.A.E.,U.A.E.,5,Vriitya Aravindâ€ ,lbw b PWH de Silva,9,18,1,0,50.00,out
+Sri Lanka Vs U.A.E.,U.A.E.,6,Basil Hameed,c DM de Silva b Shanaka,2,6,0,0,33.33,out
+Sri Lanka Vs U.A.E.,U.A.E.,7,Aayan Afzal Khan, b PWH de Silva,19,21,1,0,90.47,out
+Sri Lanka Vs U.A.E.,U.A.E.,8,Kashif Daud,lbw b PWH de Silva,0,4,0,0,0.00,out
+Sri Lanka Vs U.A.E.,U.A.E.,9,Karthik Meiyappan,st â€ Mendis b Theekshana,4,8,0,0,50.00,out
+Sri Lanka Vs U.A.E.,U.A.E.,10,Junaid Siddique,c Nissanka b Theekshana,18,16,1,1,112.50,out
+Sri Lanka Vs U.A.E.,U.A.E.,11,Zahoor Khan,,1,1,0,0,100.00,not_out
+Scotland Vs Ireland,Scotland,1,George Munsey,lbw b Adair,1,2,0,0,50.00,out
+Scotland Vs Ireland,Scotland,2,Michael Jones,c Adair b Little,86,55,6,4,156.36,out
+Scotland Vs Ireland,Scotland,3,Matthew Crossâ€ ,c McCarthy b Campher,28,21,5,0,133.33,out
+Scotland Vs Ireland,Scotland,4,Richie Berrington(c),c Dockrell b Campher,37,27,3,1,137.03,out
+Scotland Vs Ireland,Scotland,5,Michael Leask,,17,13,2,0,130.76,not_out
+Scotland Vs Ireland,Scotland,6,Calum MacLeod,run out (â€ Tucker),0,3,0,0,0.00,out
+Scotland Vs Ireland,Ireland,1,Paul Stirling,c â€ Cross b Sharif,8,10,1,0,80.00,out
+Scotland Vs Ireland,Ireland,2,Andy Balbirnie(c),c Jones b Wheal,14,12,2,0,116.66,out
+Scotland Vs Ireland,Ireland,3,Lorcan Tuckerâ€ ,c Davey b Watt,20,17,2,0,117.64,out
+Scotland Vs Ireland,Ireland,4,Harry Tector,c Greaves b Leask,14,16,1,0,87.50,out
+Scotland Vs Ireland,Ireland,5,Curtis Campher,,72,32,7,2,225.00,not_out
+Scotland Vs Ireland,Ireland,6,George Dockrell,,39,27,4,1,144.44,not_out
+West Indies Vs Zimbabwe,West Indies,1,Kyle Mayers,c â€ Chakabva b Muzarabani,13,12,2,0,108.33,out
+West Indies Vs Zimbabwe,West Indies,2,Johnson Charles,run out (Munyonga/Williams),45,36,3,2,125.00,out
+West Indies Vs Zimbabwe,West Indies,3,Evin Lewis,c Shumba b Sikandar Raza,15,18,1,0,83.33,out
+West Indies Vs Zimbabwe,West Indies,4,Nicholas Pooran(c)â€ ,c & b Williams,7,9,0,0,77.77,out
+West Indies Vs Zimbabwe,West Indies,5,Rovman Powell,c Ngarava b Muzarabani,28,21,1,2,133.33,out
+West Indies Vs Zimbabwe,West Indies,6,Shamarh Brooks,lbw b Sikandar Raza,0,3,0,0,0.00,out
+West Indies Vs Zimbabwe,West Indies,7,Jason Holder,c & b Sikandar Raza,4,3,0,0,133.33,out
+West Indies Vs Zimbabwe,West Indies,8,Akeal Hosein,,23,18,2,0,127.77,not_out
+West Indies Vs Zimbabwe,West Indies,9,Odean Smith,,1,2,0,0,50.00,not_out
+West Indies Vs Zimbabwe,Zimbabwe,1,Wessly Madhevere,c Lewis b Holder,27,19,3,1,142.10,out
+West Indies Vs Zimbabwe,Zimbabwe,2,Regis Chakabva(c)â€ , b Joseph,13,9,3,0,144.44,out
+West Indies Vs Zimbabwe,Zimbabwe,3,Tony Munyonga, b Joseph,2,6,0,0,33.33,out
+West Indies Vs Zimbabwe,Zimbabwe,4,Sean Williams,c â€ Pooran b McCoy,1,2,0,0,50.00,out
+West Indies Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,c Powell b Smith,14,8,1,1,175.00,out
+West Indies Vs Zimbabwe,Zimbabwe,6,Milton Shumba,c Brooks b Hosein,2,9,0,0,22.22,out
+West Indies Vs Zimbabwe,Zimbabwe,7,Ryan Burl,lbw b Holder,17,19,3,0,89.47,out
+West Indies Vs Zimbabwe,Zimbabwe,8,Luke Jongwe, b Joseph,29,22,3,1,131.81,out
+West Indies Vs Zimbabwe,Zimbabwe,9,Richard Ngarava, b Joseph,2,6,0,0,33.33,out
+West Indies Vs Zimbabwe,Zimbabwe,10,Tendai Chatara, b Holder,3,8,0,0,37.50,out
+West Indies Vs Zimbabwe,Zimbabwe,11,Blessing Muzarabani,,1,4,0,0,25.00,not_out
+Sri Lanka Vs Netherlands,Sri Lanka,1,Pathum Nissanka, b van Meekeren,14,21,0,1,66.66,out
+Sri Lanka Vs Netherlands,Sri Lanka,2,Kusal Mendisâ€ ,c sub (LV van Beek) b van der Gugten,79,44,5,5,179.54,out
+Sri Lanka Vs Netherlands,Sri Lanka,3,Dhananjaya de Silva,lbw b van Meekeren,0,1,0,0,0.00,out
+Sri Lanka Vs Netherlands,Sri Lanka,4,Charith Asalanka,c â€ Edwards b de Leede,31,30,3,0,103.33,out
+Sri Lanka Vs Netherlands,Sri Lanka,5,Bhanuka Rajapaksa,c Pringle b de Leede,19,13,2,0,146.15,out
+Sri Lanka Vs Netherlands,Sri Lanka,6,Dasun Shanaka(c),c Ackermann b Klaassen,8,5,0,1,160.00,out
+Sri Lanka Vs Netherlands,Sri Lanka,7,Wanindu Hasaranga de Silva,,5,4,0,0,125.00,not_out
+Sri Lanka Vs Netherlands,Sri Lanka,8,Chamika Karunaratne,,2,2,0,0,100.00,not_out
+Sri Lanka Vs Netherlands,Netherlands,1,Max O'Dowd,,71,53,6,3,133.96,not_out
+Sri Lanka Vs Netherlands,Netherlands,2,Vikramjit Singh,c Shanaka b Theekshana,7,14,0,0,50.00,out
+Sri Lanka Vs Netherlands,Netherlands,3,Bas de Leede,c â€ Mendis b Kumara,14,10,1,1,140.00,out
+Sri Lanka Vs Netherlands,Netherlands,4,Colin Ackermann,c & b PWH de Silva,0,1,0,0,0.00,out
+Sri Lanka Vs Netherlands,Netherlands,5,Tom Cooper, b Theekshana,16,19,2,0,84.21,out
+Sri Lanka Vs Netherlands,Netherlands,6,Scott Edwards(c)â€ , b Fernando,21,15,3,0,140.00,out
+Sri Lanka Vs Netherlands,Netherlands,7,Tim Pringle,run out (DM de Silva),2,4,0,0,50.00,out
+Sri Lanka Vs Netherlands,Netherlands,8,Timm van der Gugten, b PWH de Silva,0,1,0,0,0.00,out
+Sri Lanka Vs Netherlands,Netherlands,9,Fred Klaassen, b PWH de Silva,3,3,0,0,100.00,out
+Sri Lanka Vs Netherlands,Netherlands,10,Paul van Meekeren,run out (Shanaka),0,0,0,0,-,out
+Sri Lanka Vs Netherlands,Netherlands,11,Roelof van der Merwe,,0,1,0,0,0.00,not_out
+U.A.E. Vs Namibia,U.A.E.,1,Muhammad Waseem,c Trumpelmann b Shikongo,50,41,1,3,121.95,out
+U.A.E. Vs Namibia,U.A.E.,2,Vriitya Aravindâ€ ,c van Lingen b Scholtz,21,32,2,0,65.62,out
+U.A.E. Vs Namibia,U.A.E.,3,Chundangapoyil Rizwan(c),,43,29,3,1,148.27,not_out
+U.A.E. Vs Namibia,U.A.E.,4,Alishan Sharafu,c â€ Green b Wiese,4,4,0,0,100.00,out
+U.A.E. Vs Namibia,U.A.E.,5,Basil Hameed,,25,14,2,2,178.57,not_out
+U.A.E. Vs Namibia,Namibia,1,Michael van Lingen,c Sharafu b Basil Hameed,10,8,1,0,125.00,out
+U.A.E. Vs Namibia,Namibia,2,Stephan Baard,c Ahmed Raza b Junaid Siddique,4,6,1,0,66.66,out
+U.A.E. Vs Namibia,Namibia,3,Jan Nicol Loftie-Eaton,lbw b Basil Hameed,1,6,0,0,16.66,out
+U.A.E. Vs Namibia,Namibia,4,Gerhard Erasmus(c), b Meiyappan,16,18,2,0,88.88,out
+U.A.E. Vs Namibia,Namibia,5,Jan Frylinck, b Zahoor Khan,14,17,1,0,82.35,out
+U.A.E. Vs Namibia,Namibia,6,JJ Smit,run out (Meiyappan/Ahmed Raza),3,3,0,0,100.00,out
+U.A.E. Vs Namibia,Namibia,7,David Wiese,c Sharafu b Muhammad Waseem,55,36,3,3,152.77,out
+U.A.E. Vs Namibia,Namibia,8,Zane Greenâ€ , b Zahoor Khan,2,3,0,0,66.66,out
+U.A.E. Vs Namibia,Namibia,9,Ruben Trumpelmann,,25,24,1,1,104.16,not_out
+U.A.E. Vs Namibia,Namibia,10,Bernard Scholtz,,1,1,0,0,100.00,not_out
+West Indies Vs Ireland,West Indies,1,Kyle Mayers,c Tector b McCarthy,1,5,0,0,20.00,out
+West Indies Vs Ireland,West Indies,2,Johnson Charles,c Campher b Simi Singh,24,18,3,1,133.33,out
+West Indies Vs Ireland,West Indies,3,Evin Lewis,c Adair b Delany,13,18,0,0,72.22,out
+West Indies Vs Ireland,West Indies,4,Brandon King,,62,48,6,1,129.16,not_out
+West Indies Vs Ireland,West Indies,5,Nicholas Pooran(c)â€ ,c Tector b Delany,13,11,0,1,118.18,out
+West Indies Vs Ireland,West Indies,6,Rovman Powell,c Tector b Delany,6,8,1,0,75.00,out
+West Indies Vs Ireland,West Indies,7,Odean Smith,,19,12,1,2,158.33,not_out
+West Indies Vs Ireland,Ireland,1,Paul Stirling,,66,48,6,2,137.50,not_out
+West Indies Vs Ireland,Ireland,2,Andy Balbirnie(c),c Mayers b Hosein,37,23,3,3,160.86,out
+West Indies Vs Ireland,Ireland,3,Lorcan Tuckerâ€ ,,45,35,2,2,128.57,not_out
+Scotland Vs Zimbabwe,Scotland,1,George Munsey,c Shumba b Ngarava,54,51,7,0,105.88,out
+Scotland Vs Zimbabwe,Scotland,2,Michael Jones,c Sikandar Raza b Chatara,4,5,1,0,80.00,out
+Scotland Vs Zimbabwe,Scotland,3,Matthew Crossâ€ ,c Madhevere b Ngarava,1,7,0,0,14.28,out
+Scotland Vs Zimbabwe,Scotland,4,Richie Berrington(c),c Shumba b Sikandar Raza,13,15,0,0,86.66,out
+Scotland Vs Zimbabwe,Scotland,5,Calum MacLeod,c Jongwe b Chatara,25,26,1,0,96.15,out
+Scotland Vs Zimbabwe,Scotland,6,Michael Leask, b Muzarabani,12,9,2,0,133.33,out
+Scotland Vs Zimbabwe,Scotland,7,Chris Greaves,,3,7,0,0,42.85,not_out
+Scotland Vs Zimbabwe,Scotland,8,Josh Davey,,4,3,0,0,133.33,not_out
+Scotland Vs Zimbabwe,Zimbabwe,1,Regis Chakabvaâ€ ,lbw b Wheal,4,3,1,0,133.33,out
+Scotland Vs Zimbabwe,Zimbabwe,2,Craig Ervine(c),c MacLeod b Watt,58,54,6,0,107.40,out
+Scotland Vs Zimbabwe,Zimbabwe,3,Wessly Madhevere, b Davey,0,5,0,0,0.00,out
+Scotland Vs Zimbabwe,Zimbabwe,4,Sean Williams,c Wheal b Leask,7,12,0,0,58.33,out
+Scotland Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,c â€ Cross b Davey,40,23,3,2,173.91,out
+Scotland Vs Zimbabwe,Zimbabwe,6,Milton Shumba,,11,11,0,0,100.00,not_out
+Scotland Vs Zimbabwe,Zimbabwe,7,Ryan Burl,,9,5,1,0,180.00,not_out
+New Zealand Vs Australia,New Zealand,1,Finn Allen, b Hazlewood,42,16,5,3,262.50,out
+New Zealand Vs Australia,New Zealand,2,Devon Conwayâ€ ,,92,58,7,2,158.62,not_out
+New Zealand Vs Australia,New Zealand,3,Kane Williamson(c),lbw b Zampa,23,23,1,1,100.00,out
+New Zealand Vs Australia,New Zealand,4,Glenn Phillips,c & b Hazlewood,12,10,2,0,120.00,out
+New Zealand Vs Australia,New Zealand,5,James Neesham,,26,13,0,2,200.00,not_out
+New Zealand Vs Australia,Australia,1,David Warner, b Southee,5,6,1,0,83.33,out
+New Zealand Vs Australia,Australia,2,Aaron Finch(c),c Williamson b Santner,13,11,1,1,118.18,out
+New Zealand Vs Australia,Australia,3,Mitchell Marsh,c Neesham b Southee,16,12,2,1,133.33,out
+New Zealand Vs Australia,Australia,4,Glenn Maxwell, b Sodhi,28,20,3,1,140.00,out
+New Zealand Vs Australia,Australia,5,Marcus Stoinis,c Phillips b Santner,7,14,0,0,50.00,out
+New Zealand Vs Australia,Australia,6,Tim David,c Neesham b Santner,11,8,0,1,137.50,out
+New Zealand Vs Australia,Australia,7,Matthew Wadeâ€ ,c â€ Conway b Ferguson,2,4,0,0,50.00,out
+New Zealand Vs Australia,Australia,8,Pat Cummins,c â€ Conway b Southee,21,18,2,1,116.66,out
+New Zealand Vs Australia,Australia,9,Mitchell Starc, b Boult,4,7,0,0,57.14,out
+New Zealand Vs Australia,Australia,10,Adam Zampa, b Boult,0,2,0,0,0.00,out
+New Zealand Vs Australia,Australia,11,Josh Hazlewood,,1,1,0,0,100.00,not_out
+Afghanistan Vs England,Afghanistan,1,Hazratullah Zazai,c Livingstone b Stokes,7,17,1,0,41.17,out
+Afghanistan Vs England,Afghanistan,2,Rahmanullah Gurbazâ€ ,c â€ Buttler b Wood,10,9,0,1,111.11,out
+Afghanistan Vs England,Afghanistan,3,Ibrahim Zadran,c Ali b Curran,32,32,3,1,100.00,out
+Afghanistan Vs England,Afghanistan,4,Usman Ghani,c Livingstone b Curran,30,30,3,0,100.00,out
+Afghanistan Vs England,Afghanistan,5,Najibullah Zadran,c Rashid b Stokes,13,11,0,1,118.18,out
+Afghanistan Vs England,Afghanistan,6,Mohammad Nabi(c),c â€ Buttler b Wood,3,5,0,0,60.00,out
+Afghanistan Vs England,Afghanistan,7,Azmatullah Omarzai,c Stokes b Curran,8,6,1,0,133.33,out
+Afghanistan Vs England,Afghanistan,8,Rashid Khan,c Hales b Curran,0,1,0,0,0.00,out
+Afghanistan Vs England,Afghanistan,9,Mujeeb Ur Rahman,c & b Woakes,0,1,0,0,0.00,out
+Afghanistan Vs England,Afghanistan,10,Fareed Ahmad,,2,4,0,0,50.00,not_out
+Afghanistan Vs England,Afghanistan,11,Fazalhaq Farooqi,c Malan b Curran,0,2,0,0,0.00,out
+Afghanistan Vs England,England,1,Jos Buttler(c)â€ ,c Mujeeb Ur Rahman b Fazalhaq Farooqi,18,18,3,0,100.00,out
+Afghanistan Vs England,England,2,Alex Hales,c Fazalhaq Farooqi b Fareed Ahmad,19,20,0,1,95.00,out
+Afghanistan Vs England,England,3,Dawid Malan,c Mohammad Nabi b Mujeeb Ur Rahman,18,30,0,0,60.00,out
+Afghanistan Vs England,England,4,Ben Stokes, b Mohammad Nabi,2,4,0,0,50.00,out
+Afghanistan Vs England,England,5,Liam Livingstone,,29,21,3,0,138.09,not_out
+Afghanistan Vs England,England,6,Harry Brook,c Ibrahim Zadran b Rashid Khan,7,6,0,0,116.66,out
+Afghanistan Vs England,England,7,Moeen Ali,,8,10,0,0,80.00,not_out
+Ireland Vs Sri Lanka,Ireland,1,Paul Stirling,c Rajapaksa b DM de Silva,34,25,4,1,136.00,out
+Ireland Vs Sri Lanka,Ireland,2,Andy Balbirnie(c), b Kumara,1,5,0,0,20.00,out
+Ireland Vs Sri Lanka,Ireland,3,Lorcan Tuckerâ€ , b Theekshana,10,11,1,0,90.90,out
+Ireland Vs Sri Lanka,Ireland,4,Harry Tector,c Shanaka b Fernando,45,42,2,1,107.14,out
+Ireland Vs Sri Lanka,Ireland,5,Curtis Campher,c Asalanka b Karunaratne,2,4,0,0,50.00,out
+Ireland Vs Sri Lanka,Ireland,6,George Dockrell, b Theekshana,14,16,0,0,87.50,out
+Ireland Vs Sri Lanka,Ireland,7,Gareth Delany,c Karunaratne b PWH de Silva,9,6,1,0,150.00,out
+Ireland Vs Sri Lanka,Ireland,8,Mark Adair,c Karunaratne b PWH de Silva,0,1,0,0,0.00,out
+Ireland Vs Sri Lanka,Ireland,9,Simi Singh,,7,8,1,0,87.50,not_out
+Ireland Vs Sri Lanka,Ireland,10,Barry McCarthy,,2,2,0,0,100.00,not_out
+Ireland Vs Sri Lanka,Sri Lanka,1,Kusal Mendisâ€ ,,68,43,5,3,158.13,not_out
+Ireland Vs Sri Lanka,Sri Lanka,2,Dhananjaya de Silva,c â€ Tucker b Delany,31,25,2,1,124.00,out
+Ireland Vs Sri Lanka,Sri Lanka,3,Charith Asalanka,,31,22,2,0,140.90,not_out
+Pakistan Vs India,Pakistan,1,Mohammad Rizwanâ€ ,c Kumar b Arshdeep Singh,4,12,1,0,33.33,out
+Pakistan Vs India,Pakistan,2,Babar Azam(c),lbw b Arshdeep Singh,0,1,0,0,0.00,out
+Pakistan Vs India,Pakistan,3,Shan Masood,,52,42,5,0,123.80,not_out
+Pakistan Vs India,Pakistan,4,Iftikhar Ahmed,lbw b Mohammed Shami,51,34,2,4,150.00,out
+Pakistan Vs India,Pakistan,5,Shadab Khan,c Yadav b Pandya,5,6,1,0,83.33,out
+Pakistan Vs India,Pakistan,6,Haider Ali,c Yadav b Pandya,2,4,0,0,50.00,out
+Pakistan Vs India,Pakistan,7,Mohammad Nawaz,c â€ Karthik b Pandya,9,6,2,0,150.00,out
+Pakistan Vs India,Pakistan,8,Asif Ali,c â€ Karthik b Arshdeep Singh,2,3,0,0,66.66,out
+Pakistan Vs India,Pakistan,9,Shaheen Shah Afridi,c & b Kumar,16,8,1,1,200.00,out
+Pakistan Vs India,Pakistan,10,Haris Rauf,,6,4,0,1,150.00,not_out
+Pakistan Vs India,India,1,KL Rahul, b Naseem Shah,4,8,0,0,50.00,out
+Pakistan Vs India,India,2,Rohit Sharma(c),c Iftikhar Ahmed b Haris Rauf,4,7,0,0,57.14,out
+Pakistan Vs India,India,3,Virat Kohli,,82,53,6,4,154.71,not_out
+Pakistan Vs India,India,4,Suryakumar Yadav,c â€ Mohammad Rizwan b Haris Rauf,15,10,2,0,150.00,out
+Pakistan Vs India,India,5,Axar Patel,run out (Babar Azam/â€ Mohammad Rizwan),2,3,0,0,66.66,out
+Pakistan Vs India,India,6,Hardik Pandya,c Babar Azam b Mohammad Nawaz,40,37,1,2,108.10,out
+Pakistan Vs India,India,7,Dinesh Karthikâ€ ,st â€ Mohammad Rizwan b Mohammad Nawaz,1,2,0,0,50.00,out
+Pakistan Vs India,India,8,Ravichandran Ashwin,,1,1,0,0,100.00,not_out
+Bangladesh Vs Netherlands,Bangladesh,1,Najmul Hossain Shanto,c van Beek b Pringle,25,20,4,0,125.00,out
+Bangladesh Vs Netherlands,Bangladesh,2,Soumya Sarkar,c de Leede b van Meekeren,14,14,2,0,100.00,out
+Bangladesh Vs Netherlands,Bangladesh,3,Litton Das,c Cooper b van Beek,9,11,0,0,81.81,out
+Bangladesh Vs Netherlands,Bangladesh,4,Shakib Al Hasan(c),c de Leede b Shariz Ahmad,7,9,0,0,77.77,out
+Bangladesh Vs Netherlands,Bangladesh,5,Afif Hossain,c â€ Edwards b de Leede,38,27,2,2,140.74,out
+Bangladesh Vs Netherlands,Bangladesh,6,Yasir Ali, b van Meekeren,3,5,0,0,60.00,out
+Bangladesh Vs Netherlands,Bangladesh,7,Nurul Hasanâ€ ,c van Meekeren b de Leede,13,18,0,0,72.22,out
+Bangladesh Vs Netherlands,Bangladesh,8,Mosaddek Hossain,,20,12,2,1,166.66,not_out
+Bangladesh Vs Netherlands,Bangladesh,9,Taskin Ahmed,c van Beek b Klaassen,0,1,0,0,0.00,out
+Bangladesh Vs Netherlands,Bangladesh,10,Hasan Mahmud,,0,3,0,0,0.00,not_out
+Bangladesh Vs Netherlands,Netherlands,1,Vikramjit Singh,c Yasir Ali b Taskin Ahmed,0,1,0,0,0.00,out
+Bangladesh Vs Netherlands,Netherlands,2,Max O'Dowd,run out (Afif Hossain/Shakib Al Hasan),8,8,0,1,100.00,out
+Bangladesh Vs Netherlands,Netherlands,3,Bas de Leede,c â€ Nurul Hasan b Taskin Ahmed,0,1,0,0,0.00,out
+Bangladesh Vs Netherlands,Netherlands,4,Colin Ackermann,c Mosaddek Hossain b Taskin Ahmed,62,48,6,2,129.16,out
+Bangladesh Vs Netherlands,Netherlands,5,Tom Cooper,run out (Najmul Hossain Shanto/â€ Nurul Hasan),0,0,0,0,-,out
+Bangladesh Vs Netherlands,Netherlands,6,Scott Edwards(c)â€ ,c Hasan Mahmud b Shakib Al Hasan,16,24,1,0,66.66,out
+Bangladesh Vs Netherlands,Netherlands,7,Tim Pringle, b Hasan Mahmud,1,6,0,0,16.66,out
+Bangladesh Vs Netherlands,Netherlands,8,Logan van Beek,c Taskin Ahmed b Hasan Mahmud,2,5,0,0,40.00,out
+Bangladesh Vs Netherlands,Netherlands,9,Shariz Ahmad,c Hasan Mahmud b Taskin Ahmed,9,8,1,0,112.50,out
+Bangladesh Vs Netherlands,Netherlands,10,Fred Klaassen,,7,6,0,0,116.66,not_out
+Bangladesh Vs Netherlands,Netherlands,11,Paul van Meekeren,c Litton Das b Soumya Sarkar,24,14,3,1,171.42,out
+Zimbabwe Vs South Africa,Zimbabwe,1,Regis Chakabvaâ€ ,c â€ de Kock b Ngidi,8,8,0,1,100.00,out
+Zimbabwe Vs South Africa,Zimbabwe,2,Craig Ervine(c),c Ngidi b Parnell,2,6,0,0,33.33,out
+Zimbabwe Vs South Africa,Zimbabwe,3,Sean Williams,run out (Miller),1,1,0,0,100.00,out
+Zimbabwe Vs South Africa,Zimbabwe,4,Sikandar Raza,c â€ de Kock b Ngidi,0,2,0,0,0.00,out
+Zimbabwe Vs South Africa,Zimbabwe,5,Wessly Madhevere,,35,18,4,1,194.44,not_out
+Zimbabwe Vs South Africa,Zimbabwe,6,Milton Shumba,c â€ de Kock b Nortje,18,20,2,0,90.00,out
+Zimbabwe Vs South Africa,South Africa,1,Quinton de Kockâ€ ,,47,18,8,1,261.11,not_out
+Zimbabwe Vs South Africa,South Africa,2,Temba Bavuma(c),,2,2,0,0,100.00,not_out
+Sri Lanka Vs Australia,Sri Lanka,1,Pathum Nissanka,run out (Marsh/â€ Wade),40,45,2,0,88.88,out
+Sri Lanka Vs Australia,Sri Lanka,2,Kusal Mendisâ€ ,c Marsh b Cummins,5,6,1,0,83.33,out
+Sri Lanka Vs Australia,Sri Lanka,3,Dhananjaya de Silva,c Warner b Agar,26,23,3,0,113.04,out
+Sri Lanka Vs Australia,Sri Lanka,4,Charith Asalanka,,38,25,3,2,152.00,not_out
+Sri Lanka Vs Australia,Sri Lanka,5,Bhanuka Rajapaksa,c Cummins b Starc,7,5,1,0,140.00,out
+Sri Lanka Vs Australia,Sri Lanka,6,Dasun Shanaka(c),c â€ Wade b Maxwell,3,5,0,0,60.00,out
+Sri Lanka Vs Australia,Sri Lanka,7,Wanindu Hasaranga de Silva,c â€ Wade b Hazlewood,1,4,0,0,25.00,out
+Sri Lanka Vs Australia,Sri Lanka,8,Chamika Karunaratne,,14,7,2,0,200.00,not_out
+Sri Lanka Vs Australia,Australia,1,David Warner,c Shanaka b Theekshana,11,10,0,0,110.00,out
+Sri Lanka Vs Australia,Australia,2,Aaron Finch(c),,31,42,0,1,73.80,not_out
+Sri Lanka Vs Australia,Australia,3,Mitchell Marsh,c Rajapaksa b DM de Silva,17,17,1,1,100.00,out
+Sri Lanka Vs Australia,Australia,4,Glenn Maxwell,c sub (KNA Bandara) b Karunaratne,23,12,2,2,191.66,out
+Sri Lanka Vs Australia,Australia,5,Marcus Stoinis,,59,18,4,6,327.77,not_out
+Ireland Vs England,Ireland,1,Paul Stirling,c Curran b Wood,14,8,1,1,175.00,out
+Ireland Vs England,Ireland,2,Andy Balbirnie(c),c Hales b Livingstone,62,47,5,2,131.91,out
+Ireland Vs England,Ireland,3,Lorcan Tuckerâ€ ,run out (Rashid),34,27,3,1,125.92,out
+Ireland Vs England,Ireland,4,Harry Tector,c â€ Buttler b Wood,0,2,0,0,0.00,out
+Ireland Vs England,Ireland,5,Curtis Campher,c â€ Buttler b Wood,18,11,3,0,163.63,out
+Ireland Vs England,Ireland,6,George Dockrell, b Livingstone,0,1,0,0,0.00,out
+Ireland Vs England,Ireland,7,Gareth Delany,,12,10,1,0,120.00,not_out
+Ireland Vs England,Ireland,8,Mark Adair,c Curran b Livingstone,4,4,0,0,100.00,out
+Ireland Vs England,Ireland,9,Barry McCarthy, b Curran,3,3,0,0,100.00,out
+Ireland Vs England,Ireland,10,Fionn Hand, b Curran,1,2,0,0,50.00,out
+Ireland Vs England,Ireland,11,Josh Little,c â€ Buttler b Stokes,0,1,0,0,0.00,out
+Ireland Vs England,England,1,Jos Buttler(c)â€ ,c â€ Tucker b Little,0,2,0,0,0.00,out
+Ireland Vs England,England,2,Alex Hales,c Adair b Little,7,5,1,0,140.00,out
+Ireland Vs England,England,3,Dawid Malan,c Hand b McCarthy,35,37,2,0,94.59,out
+Ireland Vs England,England,4,Ben Stokes, b Hand,6,8,0,0,75.00,out
+Ireland Vs England,England,5,Harry Brook,c Delany b Dockrell,18,21,1,0,85.71,out
+Ireland Vs England,England,6,Moeen Ali,,24,12,3,1,200.00,not_out
+Ireland Vs England,England,7,Liam Livingstone,,1,2,0,0,50.00,not_out
+South Africa Vs Bangladesh,South Africa,1,Temba Bavuma(c),c â€ Nurul Hasan b Taskin Ahmed,2,6,0,0,33.33,out
+South Africa Vs Bangladesh,South Africa,2,Quinton de Kockâ€ ,c Soumya Sarkar b Afif Hossain,63,38,7,3,165.78,out
+South Africa Vs Bangladesh,South Africa,3,Rilee Rossouw,c Litton Das b Shakib Al Hasan,109,56,7,8,194.64,out
+South Africa Vs Bangladesh,South Africa,4,Tristan Stubbs,c Litton Das b Shakib Al Hasan,7,7,1,0,100.00,out
+South Africa Vs Bangladesh,South Africa,5,Aiden Markram,c Soumya Sarkar b Hasan Mahmud,10,11,1,0,90.90,out
+South Africa Vs Bangladesh,South Africa,6,David Miller,,2,4,0,0,50.00,not_out
+South Africa Vs Bangladesh,South Africa,7,Wayne Parnell,,0,2,0,0,0.00,not_out
+South Africa Vs Bangladesh,Bangladesh,1,Najmul Hossain Shanto, b Nortje,9,9,1,0,100.00,out
+South Africa Vs Bangladesh,Bangladesh,2,Soumya Sarkar,c â€ de Kock b Nortje,15,6,0,2,250.00,out
+South Africa Vs Bangladesh,Bangladesh,3,Litton Das,c Stubbs b Shamsi,34,31,1,1,109.67,out
+South Africa Vs Bangladesh,Bangladesh,4,Shakib Al Hasan(c),lbw b Nortje,1,4,0,0,25.00,out
+South Africa Vs Bangladesh,Bangladesh,5,Afif Hossain,c Parnell b Rabada,1,5,0,0,20.00,out
+South Africa Vs Bangladesh,Bangladesh,6,Mehidy Hasan Miraz,c Markram b Shamsi,11,13,0,0,84.61,out
+South Africa Vs Bangladesh,Bangladesh,7,Mosaddek Hossain,st â€ de Kock b Maharaj,0,3,0,0,0.00,out
+South Africa Vs Bangladesh,Bangladesh,8,Nurul Hasanâ€ ,c Nortje b Shamsi,2,6,0,0,33.33,out
+South Africa Vs Bangladesh,Bangladesh,9,Taskin Ahmed, b Nortje,10,17,1,0,58.82,out
+South Africa Vs Bangladesh,Bangladesh,10,Hasan Mahmud,run out (Rabada),0,2,0,0,0.00,out
+South Africa Vs Bangladesh,Bangladesh,11,Mustafizur Rahman,,9,3,0,1,300.00,not_out
+India Vs Netherlands,India,1,KL Rahul,lbw b van Meekeren,9,12,1,0,75.00,out
+India Vs Netherlands,India,2,Rohit Sharma(c),c Ackermann b Klaassen,53,39,4,3,135.89,out
+India Vs Netherlands,India,3,Virat Kohli,,62,44,3,2,140.90,not_out
+India Vs Netherlands,India,4,Suryakumar Yadav,,51,25,7,1,204.00,not_out
+India Vs Netherlands,Netherlands,1,Vikramjit Singh, b Kumar,1,9,0,0,11.11,out
+India Vs Netherlands,Netherlands,2,Max O'Dowd, b Patel,16,10,3,0,160.00,out
+India Vs Netherlands,Netherlands,3,Bas de Leede,c Pandya b Patel,16,23,0,0,69.56,out
+India Vs Netherlands,Netherlands,4,Colin Ackermann,c Patel b Ashwin,17,21,1,0,80.95,out
+India Vs Netherlands,Netherlands,5,Tom Cooper,c sub (DJ Hooda) b Ashwin,9,12,0,0,75.00,out
+India Vs Netherlands,Netherlands,6,Scott Edwards(c)â€ ,c sub (DJ Hooda) b Kumar,5,8,0,0,62.50,out
+India Vs Netherlands,Netherlands,7,Tim Pringle,c Kohli b Mohammed Shami,20,15,1,1,133.33,out
+India Vs Netherlands,Netherlands,8,Logan van Beek,c â€ Karthik b Arshdeep Singh,3,5,0,0,60.00,out
+India Vs Netherlands,Netherlands,9,Shariz Ahmad,,16,11,2,0,145.45,not_out
+India Vs Netherlands,Netherlands,10,Fred Klaassen,lbw b Arshdeep Singh,0,1,0,0,0.00,out
+India Vs Netherlands,Netherlands,11,Paul van Meekeren,,14,6,3,0,233.33,not_out
+Zimbabwe Vs Pakistan,Zimbabwe,1,Wessly Madhevere,lbw b Mohammad Wasim,17,13,3,0,130.76,out
+Zimbabwe Vs Pakistan,Zimbabwe,2,Craig Ervine(c),c Mohammad Wasim b Haris Rauf,19,19,2,0,100.00,out
+Zimbabwe Vs Pakistan,Zimbabwe,3,Milton Shumba,c & b Shadab Khan,8,10,1,0,80.00,out
+Zimbabwe Vs Pakistan,Zimbabwe,4,Sean Williams, b Shadab Khan,31,28,3,0,110.71,out
+Zimbabwe Vs Pakistan,Zimbabwe,5,Sikandar Raza,c Haris Rauf b Mohammad Wasim,9,16,1,0,56.25,out
+Zimbabwe Vs Pakistan,Zimbabwe,6,Regis Chakabvaâ€ ,c Babar Azam b Shadab Khan,0,1,0,0,0.00,out
+Zimbabwe Vs Pakistan,Zimbabwe,7,Ryan Burl,,10,15,0,0,66.66,not_out
+Zimbabwe Vs Pakistan,Zimbabwe,8,Luke Jongwe, b Mohammad Wasim,0,1,0,0,0.00,out
+Zimbabwe Vs Pakistan,Zimbabwe,9,Brad Evans, b Mohammad Wasim,19,15,0,1,126.66,out
+Zimbabwe Vs Pakistan,Zimbabwe,10,Richard Ngarava,,3,2,0,0,150.00,not_out
+Zimbabwe Vs Pakistan,Pakistan,1,Mohammad Rizwanâ€ , b Muzarabani,14,16,1,1,87.50,out
+Zimbabwe Vs Pakistan,Pakistan,2,Babar Azam(c),c Burl b Evans,4,9,1,0,44.44,out
+Zimbabwe Vs Pakistan,Pakistan,3,Shan Masood,st â€ Chakabva b Sikandar Raza,44,38,3,0,115.78,out
+Zimbabwe Vs Pakistan,Pakistan,4,Iftikhar Ahmed,c â€ Chakabva b Jongwe,5,10,1,0,50.00,out
+Zimbabwe Vs Pakistan,Pakistan,5,Shadab Khan,c Williams b Sikandar Raza,17,14,0,1,121.42,out
+Zimbabwe Vs Pakistan,Pakistan,6,Haider Ali,lbw b Sikandar Raza,0,1,0,0,0.00,out
+Zimbabwe Vs Pakistan,Pakistan,7,Mohammad Nawaz,c Ervine b Evans,22,18,1,1,122.22,out
+Zimbabwe Vs Pakistan,Pakistan,8,Mohammad Wasim,,12,13,2,0,92.30,not_out
+Zimbabwe Vs Pakistan,Pakistan,9,Shaheen Shah Afridi,run out (Sikandar Raza/â€ Chakabva),1,1,0,0,100.00,out
+New Zealand Vs Sri Lanka,New Zealand,1,Finn Allen, b Theekshana,1,3,0,0,33.33,out
+New Zealand Vs Sri Lanka,New Zealand,2,Devon Conwayâ€ , b DM de Silva,1,4,0,0,25.00,out
+New Zealand Vs Sri Lanka,New Zealand,3,Kane Williamson(c),c â€ Mendis b Rajitha,8,13,1,0,61.53,out
+New Zealand Vs Sri Lanka,New Zealand,4,Glenn Phillips,c Shanaka b Kumara,104,64,10,4,162.50,out
+New Zealand Vs Sri Lanka,New Zealand,5,Daryl Mitchell, b PWH de Silva,22,24,0,0,91.66,out
+New Zealand Vs Sri Lanka,New Zealand,6,James Neesham,c Shanaka b Rajitha,5,8,0,0,62.50,out
+New Zealand Vs Sri Lanka,New Zealand,7,Mitchell Santner,,11,5,0,1,220.00,not_out
+New Zealand Vs Sri Lanka,New Zealand,8,Ish Sodhi,run out (sub [KNA Bandara]/â€ Mendis),1,1,0,0,100.00,out
+New Zealand Vs Sri Lanka,New Zealand,9,Tim Southee,,4,1,1,0,400.00,not_out
+New Zealand Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka,lbw b Southee,0,5,0,0,0.00,out
+New Zealand Vs Sri Lanka,Sri Lanka,2,Kusal Mendisâ€ ,c â€ Conway b Boult,4,3,1,0,133.33,out
+New Zealand Vs Sri Lanka,Sri Lanka,3,Dhananjaya de Silva, b Boult,0,3,0,0,0.00,out
+New Zealand Vs Sri Lanka,Sri Lanka,4,Charith Asalanka,c Allen b Boult,4,8,0,0,50.00,out
+New Zealand Vs Sri Lanka,Sri Lanka,5,Bhanuka Rajapaksa,c Williamson b Ferguson,34,22,3,2,154.54,out
+New Zealand Vs Sri Lanka,Sri Lanka,6,Chamika Karunaratne,c Boult b Santner,3,8,0,0,37.50,out
+New Zealand Vs Sri Lanka,Sri Lanka,7,Dasun Shanaka(c),c Mitchell b Boult,35,32,4,1,109.37,out
+New Zealand Vs Sri Lanka,Sri Lanka,8,Wanindu Hasaranga de Silva,c Williamson b Sodhi,4,6,1,0,66.66,out
+New Zealand Vs Sri Lanka,Sri Lanka,9,Maheesh Theekshana,c Neesham b Santner,0,3,0,0,0.00,out
+New Zealand Vs Sri Lanka,Sri Lanka,10,Kasun Rajitha,,8,21,0,0,38.09,not_out
+New Zealand Vs Sri Lanka,Sri Lanka,11,Lahiru Kumara,st â€ Conway b Sodhi,4,5,1,0,80.00,out
+Bangladesh Vs Zimbabwe,Bangladesh,1,Najmul Hossain Shanto,c Ervine b Sikandar Raza,71,55,7,1,129.09,out
+Bangladesh Vs Zimbabwe,Bangladesh,2,Soumya Sarkar,c â€ Chakabva b Muzarabani,0,2,0,0,0.00,out
+Bangladesh Vs Zimbabwe,Bangladesh,3,Litton Das,c Chatara b Muzarabani,14,12,3,0,116.66,out
+Bangladesh Vs Zimbabwe,Bangladesh,4,Shakib Al Hasan(c),c Muzarabani b Williams,23,20,1,0,115.00,out
+Bangladesh Vs Zimbabwe,Bangladesh,5,Afif Hossain,lbw b Ngarava,29,19,1,1,152.63,out
+Bangladesh Vs Zimbabwe,Bangladesh,6,Mosaddek Hossain,c Chatara b Ngarava,7,10,0,0,70.00,out
+Bangladesh Vs Zimbabwe,Bangladesh,7,Nurul Hasanâ€ ,run out (Williams/â€ Chakabva),1,1,0,0,100.00,out
+Bangladesh Vs Zimbabwe,Bangladesh,8,Yasir Ali,,1,1,0,0,100.00,not_out
+Bangladesh Vs Zimbabwe,Zimbabwe,1,Wessly Madhevere,c Mustafizur Rahman b Taskin Ahmed,4,3,1,0,133.33,out
+Bangladesh Vs Zimbabwe,Zimbabwe,2,Craig Ervine(c),c â€ Nurul Hasan b Taskin Ahmed,8,7,2,0,114.28,out
+Bangladesh Vs Zimbabwe,Zimbabwe,3,Milton Shumba,c Shakib Al Hasan b Mustafizur Rahman,8,15,1,0,53.33,out
+Bangladesh Vs Zimbabwe,Zimbabwe,4,Sean Williams,run out (Shakib Al Hasan),64,42,8,0,152.38,out
+Bangladesh Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,c Afif Hossain b Mustafizur Rahman,0,3,0,0,0.00,out
+Bangladesh Vs Zimbabwe,Zimbabwe,6,Regis Chakabvaâ€ ,c â€ Nurul Hasan b Taskin Ahmed,15,19,0,0,78.94,out
+Bangladesh Vs Zimbabwe,Zimbabwe,7,Ryan Burl,,27,25,2,1,108.00,not_out
+Bangladesh Vs Zimbabwe,Zimbabwe,8,Brad Evans,c Afif Hossain b Mosaddek Hossain,2,2,0,0,100.00,out
+Bangladesh Vs Zimbabwe,Zimbabwe,9,Richard Ngarava,st â€ Nurul Hasan b Mosaddek Hossain,6,3,0,1,200.00,out
+Bangladesh Vs Zimbabwe,Zimbabwe,10,Blessing Muzarabani,,0,2,0,0,0.00,not_out
+Netherlands Vs Pakistan,Netherlands,1,Stephan Myburgh,c Mohammad Wasim b Shaheen Shah Afridi,6,11,1,0,54.54,out
+Netherlands Vs Pakistan,Netherlands,2,Max O'Dowd,lbw b Shadab Khan,8,13,0,0,61.53,out
+Netherlands Vs Pakistan,Netherlands,3,Bas de Leede,,6,16,1,0,37.50,not_out
+Netherlands Vs Pakistan,Netherlands,4,Tom Cooper,c Mohammad Wasim b Shadab Khan,1,2,0,0,50.00,out
+Netherlands Vs Pakistan,Netherlands,5,Colin Ackermann,lbw b Shadab Khan,27,27,2,0,100.00,out
+Netherlands Vs Pakistan,Netherlands,6,Scott Edwards(c)â€ ,c Iftikhar Ahmed b Naseem Shah,15,20,1,0,75.00,out
+Netherlands Vs Pakistan,Netherlands,7,Roelof van der Merwe, b Haris Rauf,5,6,0,0,83.33,out
+Netherlands Vs Pakistan,Netherlands,8,Tim Pringle, b Mohammad Wasim,5,8,0,0,62.50,out
+Netherlands Vs Pakistan,Netherlands,9,Logan van Beek,,6,9,0,0,66.66,not_out
+Netherlands Vs Pakistan,Netherlands,10,Fred Klaassen, b Mohammad Wasim,0,1,0,0,0.00,out
+Netherlands Vs Pakistan,Netherlands,11,Paul van Meekeren,run out (Shadab Khan/â€ Mohammad Rizwan),7,7,0,0,100.00,out
+Netherlands Vs Pakistan,Pakistan,1,Mohammad Rizwanâ€ ,c â€ Edwards b van Meekeren,49,39,5,0,125.64,out
+Netherlands Vs Pakistan,Pakistan,2,Babar Azam(c),run out (van der Merwe),4,5,1,0,80.00,out
+Netherlands Vs Pakistan,Pakistan,3,Fakhar Zaman,c â€ Edwards b Glover,20,16,3,0,125.00,out
+Netherlands Vs Pakistan,Pakistan,4,Shan Masood,c van Meekeren b Glover,12,16,0,0,75.00,out
+Netherlands Vs Pakistan,Pakistan,5,Iftikhar Ahmed,,6,5,0,0,120.00,not_out
+Netherlands Vs Pakistan,Pakistan,6,Shadab Khan,,4,2,1,0,200.00,not_out
+India Vs South Africa,India,1,KL Rahul,c Markram b Ngidi,9,14,0,1,64.28,out
+India Vs South Africa,India,2,Rohit Sharma(c),c & b Ngidi,15,14,1,1,107.14,out
+India Vs South Africa,India,3,Virat Kohli,c Rabada b Ngidi,12,11,2,0,109.09,out
+India Vs South Africa,India,4,Suryakumar Yadav,c Maharaj b Parnell,68,40,6,3,170.00,out
+India Vs South Africa,India,5,Deepak Hooda,c â€ de Kock b Nortje,0,3,0,0,0.00,out
+India Vs South Africa,India,6,Hardik Pandya,c Rabada b Ngidi,2,3,0,0,66.66,out
+India Vs South Africa,India,7,Dinesh Karthikâ€ ,c Rossouw b Parnell,6,15,0,0,40.00,out
+India Vs South Africa,India,8,Ravichandran Ashwin,c Rabada b Parnell,7,11,0,0,63.63,out
+India Vs South Africa,India,9,Bhuvneshwar Kumar,,4,6,0,0,66.66,not_out
+India Vs South Africa,India,10,Mohammed Shami,run out (Nortje),0,2,0,0,0.00,out
+India Vs South Africa,India,11,Arshdeep Singh,,2,1,0,0,200.00,not_out
+India Vs South Africa,South Africa,1,Quinton de Kockâ€ ,c Rahul b Arshdeep Singh,1,3,0,0,33.33,out
+India Vs South Africa,South Africa,2,Temba Bavuma(c),c â€ Karthik b Mohammed Shami,10,15,0,1,66.66,out
+India Vs South Africa,South Africa,3,Rilee Rossouw,lbw b Arshdeep Singh,0,2,0,0,0.00,out
+India Vs South Africa,South Africa,4,Aiden Markram,c Yadav b Pandya,52,41,6,1,126.82,out
+India Vs South Africa,South Africa,5,David Miller,,59,46,4,3,128.26,not_out
+India Vs South Africa,South Africa,6,Tristan Stubbs,lbw b Ashwin,6,6,1,0,100.00,out
+India Vs South Africa,South Africa,7,Wayne Parnell,,2,5,0,0,40.00,not_out
+Australia Vs Ireland,Australia,1,David Warner,c Adair b McCarthy,3,7,0,0,42.85,out
+Australia Vs Ireland,Australia,2,Aaron Finch(c),c Adair b McCarthy,63,44,5,3,143.18,out
+Australia Vs Ireland,Australia,3,Mitchell Marsh,c â€ Tucker b McCarthy,28,22,2,2,127.27,out
+Australia Vs Ireland,Australia,4,Glenn Maxwell,c â€ Tucker b Little,13,9,0,1,144.44,out
+Australia Vs Ireland,Australia,5,Marcus Stoinis,c Dockrell b Little,35,25,3,1,140.00,out
+Australia Vs Ireland,Australia,6,Tim David,,15,10,2,0,150.00,not_out
+Australia Vs Ireland,Australia,7,Matthew Wadeâ€ ,,7,3,1,0,233.33,not_out
+Australia Vs Ireland,Ireland,1,Paul Stirling,c Cummins b Maxwell,11,7,1,1,157.14,out
+Australia Vs Ireland,Ireland,2,Andy Balbirnie(c), b Cummins,6,7,0,1,85.71,out
+Australia Vs Ireland,Ireland,3,Lorcan Tuckerâ€ ,,71,48,9,1,147.91,not_out
+Australia Vs Ireland,Ireland,4,Harry Tector,c sub (SPD Smith) b Maxwell,6,4,1,0,150.00,out
+Australia Vs Ireland,Ireland,5,Curtis Campher, b Starc,0,1,0,0,0.00,out
+Australia Vs Ireland,Ireland,6,George Dockrell, b Starc,0,4,0,0,0.00,out
+Australia Vs Ireland,Ireland,7,Gareth Delany,c Maxwell b Stoinis,14,10,2,0,140.00,out
+Australia Vs Ireland,Ireland,8,Mark Adair,st â€ Wade b Zampa,11,11,1,0,100.00,out
+Australia Vs Ireland,Ireland,9,Fionn Hand, b Zampa,6,6,1,0,100.00,out
+Australia Vs Ireland,Ireland,10,Barry McCarthy,c sub (SPD Smith) b Cummins,3,7,0,0,42.85,out
+Australia Vs Ireland,Ireland,11,Josh Little,run out (Marsh/Maxwell),1,5,0,0,20.00,out
+Afghanistan Vs Sri Lanka,Afghanistan,1,Rahmanullah Gurbazâ€ , b Kumara,28,24,2,2,116.66,out
+Afghanistan Vs Sri Lanka,Afghanistan,2,Usman Ghani,c Shanaka b PWH de Silva,27,27,2,1,100.00,out
+Afghanistan Vs Sri Lanka,Afghanistan,3,Ibrahim Zadran,c Rajapaksa b Kumara,22,18,1,1,122.22,out
+Afghanistan Vs Sri Lanka,Afghanistan,4,Najibullah Zadran,c PWH de Silva b DM de Silva,18,16,1,0,112.50,out
+Afghanistan Vs Sri Lanka,Afghanistan,5,Gulbadin Naib,run out (Nissanka/â€ Mendis),12,14,0,0,85.71,out
+Afghanistan Vs Sri Lanka,Afghanistan,6,Mohammad Nabi(c),c Shanaka b Rajitha,13,8,1,0,162.50,out
+Afghanistan Vs Sri Lanka,Afghanistan,7,Rashid Khan, b PWH de Silva,9,8,1,0,112.50,out
+Afghanistan Vs Sri Lanka,Afghanistan,8,Azmatullah Omarzai,,3,4,0,0,75.00,not_out
+Afghanistan Vs Sri Lanka,Afghanistan,9,Mujeeb Ur Rahman,st â€ Mendis b PWH de Silva,1,2,0,0,50.00,out
+Afghanistan Vs Sri Lanka,Sri Lanka,1,Pathum Nissanka, b Mujeeb Ur Rahman,10,10,2,0,100.00,out
+Afghanistan Vs Sri Lanka,Sri Lanka,2,Kusal Mendisâ€ ,c â€ Rahmanullah Gurbaz b Rashid Khan,25,27,2,1,92.59,out
+Afghanistan Vs Sri Lanka,Sri Lanka,3,Dhananjaya de Silva,,66,42,6,2,157.14,not_out
+Afghanistan Vs Sri Lanka,Sri Lanka,4,Charith Asalanka,c Azmatullah Omarzai b Rashid Khan,19,18,1,0,105.55,out
+Afghanistan Vs Sri Lanka,Sri Lanka,5,Bhanuka Rajapaksa,c â€ Rahmanullah Gurbaz b Mujeeb Ur Rahman,18,14,3,0,128.57,out
+Afghanistan Vs Sri Lanka,Sri Lanka,6,Dasun Shanaka(c),,0,0,0,0,-,not_out
+England Vs New Zealand,England,1,Jos Buttler(c)â€ ,run out (Williamson/Southee),73,47,7,2,155.31,out
+England Vs New Zealand,England,2,Alex Hales,st â€ Conway b Santner,52,40,7,1,130.00,out
+England Vs New Zealand,England,3,Moeen Ali,c Boult b Sodhi,5,6,0,0,83.33,out
+England Vs New Zealand,England,4,Liam Livingstone, b Ferguson,20,14,1,1,142.85,out
+England Vs New Zealand,England,5,Harry Brook,c Allen b Southee,7,3,0,1,233.33,out
+England Vs New Zealand,England,6,Ben Stokes,lbw b Ferguson,8,7,0,0,114.28,out
+England Vs New Zealand,England,7,Sam Curran,,6,3,0,1,200.00,not_out
+England Vs New Zealand,England,8,Dawid Malan,,3,1,0,0,300.00,not_out
+England Vs New Zealand,New Zealand,1,Finn Allen,c Stokes b Curran,16,11,0,1,145.45,out
+England Vs New Zealand,New Zealand,2,Devon Conwayâ€ ,c â€ Buttler b Woakes,3,9,0,0,33.33,out
+England Vs New Zealand,New Zealand,3,Kane Williamson(c),c Rashid b Stokes,40,40,3,0,100.00,out
+England Vs New Zealand,New Zealand,4,Glenn Phillips,c sub (CJ Jordan) b Curran,62,36,4,3,172.22,out
+England Vs New Zealand,New Zealand,5,James Neesham,c Curran b Wood,6,3,1,0,200.00,out
+England Vs New Zealand,New Zealand,6,Daryl Mitchell,c sub (CJ Jordan) b Woakes,3,5,0,0,60.00,out
+England Vs New Zealand,New Zealand,7,Mitchell Santner,,16,10,0,1,160.00,not_out
+England Vs New Zealand,New Zealand,8,Ish Sodhi,,6,6,0,0,100.00,not_out
+Zimbabwe Vs Netherlands,Zimbabwe,1,Wessly Madhevere, b van Meekeren,1,5,0,0,20.00,out
+Zimbabwe Vs Netherlands,Zimbabwe,2,Craig Ervine(c),c â€ Edwards b Glover,3,12,0,0,25.00,out
+Zimbabwe Vs Netherlands,Zimbabwe,3,Regis Chakabvaâ€ ,lbw b Glover,5,16,1,0,31.25,out
+Zimbabwe Vs Netherlands,Zimbabwe,4,Sean Williams,c O'Dowd b van Meekeren,28,23,3,0,121.73,out
+Zimbabwe Vs Netherlands,Zimbabwe,5,Sikandar Raza,c Klaassen b de Leede,40,24,3,3,166.66,out
+Zimbabwe Vs Netherlands,Zimbabwe,6,Milton Shumba,c Myburgh b van Beek,2,3,0,0,66.66,out
+Zimbabwe Vs Netherlands,Zimbabwe,7,Ryan Burl, b van Meekeren,2,7,0,0,28.57,out
+Zimbabwe Vs Netherlands,Zimbabwe,8,Luke Jongwe,c van Beek b de Leede,6,8,0,0,75.00,out
+Zimbabwe Vs Netherlands,Zimbabwe,9,Richard Ngarava,c Myburgh b Klaassen,9,7,0,1,128.57,out
+Zimbabwe Vs Netherlands,Zimbabwe,10,Tendai Chatara,,6,7,0,0,85.71,not_out
+Zimbabwe Vs Netherlands,Zimbabwe,11,Blessing Muzarabani,c Glover b van Beek,1,4,0,0,25.00,out
+Zimbabwe Vs Netherlands,Netherlands,1,Stephan Myburgh,c Burl b Muzarabani,8,7,0,1,114.28,out
+Zimbabwe Vs Netherlands,Netherlands,2,Max O'Dowd,c Shumba b Muzarabani,52,47,8,1,110.63,out
+Zimbabwe Vs Netherlands,Netherlands,3,Tom Cooper,c Madhevere b Jongwe,32,29,2,1,110.34,out
+Zimbabwe Vs Netherlands,Netherlands,4,Colin Ackermann,c Jongwe b Ngarava,1,5,0,0,20.00,out
+Zimbabwe Vs Netherlands,Netherlands,5,Bas de Leede,,12,12,2,0,100.00,not_out
+Zimbabwe Vs Netherlands,Netherlands,6,Scott Edwards(c)â€ ,c â€ Chakabva b Ngarava,5,6,1,0,83.33,out
+Zimbabwe Vs Netherlands,Netherlands,7,Roelof van der Merwe,,0,3,0,0,0.00,not_out
+India Vs Bangladesh,India,1,KL Rahul,c Mustafizur Rahman b Shakib Al Hasan,50,32,3,4,156.25,out
+India Vs Bangladesh,India,2,Rohit Sharma(c),c Yasir Ali b Hasan Mahmud,2,8,0,0,25.00,out
+India Vs Bangladesh,India,3,Virat Kohli,,64,44,8,1,145.45,not_out
+India Vs Bangladesh,India,4,Suryakumar Yadav, b Shakib Al Hasan,30,16,4,0,187.50,out
+India Vs Bangladesh,India,5,Hardik Pandya,c Yasir Ali b Hasan Mahmud,5,6,0,0,83.33,out
+India Vs Bangladesh,India,6,Dinesh Karthikâ€ ,run out (Shakib Al Hasan/Shoriful Islam),7,5,1,0,140.00,out
+India Vs Bangladesh,India,7,Axar Patel,c Shakib Al Hasan b Hasan Mahmud,7,6,1,0,116.66,out
+India Vs Bangladesh,India,8,Ravichandran Ashwin,,13,6,1,1,216.66,not_out
+India Vs Bangladesh,Bangladesh,1,Najmul Hossain Shanto,c Yadav b Mohammed Shami,21,25,1,1,84.00,out
+India Vs Bangladesh,Bangladesh,2,Litton Das,run out (Rahul),60,27,7,3,222.22,out
+India Vs Bangladesh,Bangladesh,3,Shakib Al Hasan(c),c sub (DJ Hooda) b Arshdeep Singh,13,12,2,0,108.33,out
+India Vs Bangladesh,Bangladesh,4,Afif Hossain,c Yadav b Arshdeep Singh,3,5,0,0,60.00,out
+India Vs Bangladesh,Bangladesh,5,Yasir Ali,c Arshdeep Singh b Pandya,1,3,0,0,33.33,out
+India Vs Bangladesh,Bangladesh,6,Nurul Hasanâ€ ,,25,14,2,1,178.57,not_out
+India Vs Bangladesh,Bangladesh,7,Mosaddek Hossain, b Pandya,6,3,0,1,200.00,out
+India Vs Bangladesh,Bangladesh,8,Taskin Ahmed,,12,7,1,1,171.42,not_out
+Pakistan Vs South Africa,Pakistan,1,Mohammad Rizwanâ€ , b Parnell,4,4,1,0,100.00,out
+Pakistan Vs South Africa,Pakistan,2,Babar Azam(c),c Rabada b Ngidi,6,15,0,0,40.00,out
+Pakistan Vs South Africa,Pakistan,3,Mohammad Haris,lbw b Nortje,28,11,2,3,254.54,out
+Pakistan Vs South Africa,Pakistan,4,Shan Masood,c Bavuma b Nortje,2,6,0,0,33.33,out
+Pakistan Vs South Africa,Pakistan,5,Iftikhar Ahmed,c Rossouw b Rabada,51,35,3,2,145.71,out
+Pakistan Vs South Africa,Pakistan,6,Mohammad Nawaz,lbw b Shamsi,28,22,4,1,127.27,out
+Pakistan Vs South Africa,Pakistan,7,Shadab Khan,c Stubbs b Nortje,52,22,3,4,236.36,out
+Pakistan Vs South Africa,Pakistan,8,Mohammad Wasim,c Bavuma b Nortje,0,1,0,0,0.00,out
+Pakistan Vs South Africa,Pakistan,9,Naseem Shah,,5,3,0,0,166.66,not_out
+Pakistan Vs South Africa,Pakistan,10,Haris Rauf,run out (Klaasen/Bavuma),3,2,0,0,150.00,out
+Pakistan Vs South Africa,South Africa,1,Temba Bavuma(c),c â€ Mohammad Rizwan b Shadab Khan,36,19,4,1,189.47,out
+Pakistan Vs South Africa,South Africa,2,Quinton de Kockâ€ ,c Mohammad Haris b Shaheen Shah Afridi,0,5,0,0,0.00,out
+Pakistan Vs South Africa,South Africa,3,Rilee Rossouw,c Naseem Shah b Shaheen Shah Afridi,7,6,0,1,116.66,out
+Pakistan Vs South Africa,South Africa,4,Aiden Markram, b Shadab Khan,20,14,4,0,142.85,out
+Pakistan Vs South Africa,South Africa,5,Heinrich Klaasen,c Mohammad Wasim b Shaheen Shah Afridi,15,9,3,0,166.66,out
+Pakistan Vs South Africa,South Africa,6,Tristan Stubbs,c Mohammad Nawaz b Naseem Shah,18,18,0,1,100.00,out
+Pakistan Vs South Africa,South Africa,7,Wayne Parnell,lbw b Mohammad Wasim,3,4,0,0,75.00,out
+Pakistan Vs South Africa,South Africa,8,Kagiso Rabada,run out (Mohammad Nawaz/Haris Rauf),1,2,0,0,50.00,out
+Pakistan Vs South Africa,South Africa,9,Anrich Nortje,c Mohammad Haris b Haris Rauf,1,5,0,0,20.00,out
+Pakistan Vs South Africa,South Africa,10,Lungi Ngidi,,4,1,1,0,400.00,not_out
+Pakistan Vs South Africa,South Africa,11,Tabraiz Shamsi,,1,1,0,0,100.00,not_out
+New Zealand Vs Ireland,New Zealand,1,Finn Allen,c Hand b Adair,32,18,5,1,177.77,out
+New Zealand Vs Ireland,New Zealand,2,Devon Conwayâ€ ,c Adair b Delany,28,33,2,0,84.84,out
+New Zealand Vs Ireland,New Zealand,3,Kane Williamson(c),c Delany b Little,61,35,5,3,174.28,out
+New Zealand Vs Ireland,New Zealand,4,Glenn Phillips,c Dockrell b Delany,17,9,2,1,188.88,out
+New Zealand Vs Ireland,New Zealand,5,Daryl Mitchell,,31,21,2,0,147.61,not_out
+New Zealand Vs Ireland,New Zealand,6,James Neesham,lbw b Little,0,1,0,0,0.00,out
+New Zealand Vs Ireland,New Zealand,7,Mitchell Santner,lbw b Little,0,1,0,0,0.00,out
+New Zealand Vs Ireland,New Zealand,8,Tim Southee,,1,2,0,0,50.00,not_out
+New Zealand Vs Ireland,Ireland,1,Paul Stirling, b Sodhi,37,27,3,1,137.03,out
+New Zealand Vs Ireland,Ireland,2,Andy Balbirnie(c), b Santner,30,25,0,3,120.00,out
+New Zealand Vs Ireland,Ireland,3,Lorcan Tuckerâ€ ,c Allen b Sodhi,13,14,0,0,92.85,out
+New Zealand Vs Ireland,Ireland,4,Harry Tector,c Southee b Santner,2,7,0,0,28.57,out
+New Zealand Vs Ireland,Ireland,5,Gareth Delany,c â€ Conway b Ferguson,10,8,2,0,125.00,out
+New Zealand Vs Ireland,Ireland,6,George Dockrell,c Williamson b Ferguson,23,15,3,0,153.33,out
+New Zealand Vs Ireland,Ireland,7,Curtis Campher,c Allen b Southee,7,7,1,0,100.00,out
+New Zealand Vs Ireland,Ireland,8,Fionn Hand,c & b Ferguson,5,3,1,0,166.66,out
+New Zealand Vs Ireland,Ireland,9,Mark Adair,c Phillips b Southee,4,5,0,0,80.00,out
+New Zealand Vs Ireland,Ireland,10,Barry McCarthy,,6,5,0,0,120.00,not_out
+New Zealand Vs Ireland,Ireland,11,Josh Little,,8,4,0,1,200.00,not_out
+Australia Vs Afghanistan,Australia,1,David Warner, b Naveen-ul-Haq,25,18,5,0,138.88,out
+Australia Vs Afghanistan,Australia,2,Cameron Green,c Gulbadin Naib b Fazalhaq Farooqi,3,2,0,0,150.00,out
+Australia Vs Afghanistan,Australia,3,Mitchell Marsh,c â€ Rahmanullah Gurbaz b Mujeeb Ur Rahman,45,30,3,2,150.00,out
+Australia Vs Afghanistan,Australia,4,Steven Smith,lbw b Naveen-ul-Haq,4,4,1,0,100.00,out
+Australia Vs Afghanistan,Australia,5,Marcus Stoinis,c Usman Ghani b Rashid Khan,25,21,0,2,119.04,out
+Australia Vs Afghanistan,Australia,6,Glenn Maxwell,,54,32,6,2,168.75,not_out
+Australia Vs Afghanistan,Australia,7,Matthew Wade(c)â€ , b Fazalhaq Farooqi,6,8,1,0,75.00,out
+Australia Vs Afghanistan,Australia,8,Pat Cummins,c Rashid Khan b Naveen-ul-Haq,0,2,0,0,0.00,out
+Australia Vs Afghanistan,Australia,9,Kane Richardson,run out (Naveen-ul-Haq),1,1,0,0,100.00,out
+Australia Vs Afghanistan,Australia,10,Adam Zampa,,1,1,0,0,100.00,not_out
+Australia Vs Afghanistan,Afghanistan,1,Rahmanullah Gurbazâ€ ,c Warner b Richardson,30,17,2,2,176.47,out
+Australia Vs Afghanistan,Afghanistan,2,Usman Ghani,c Cummins b Hazlewood,2,7,0,0,28.57,out
+Australia Vs Afghanistan,Afghanistan,3,Ibrahim Zadran,c Marsh b Zampa,26,33,2,0,78.78,out
+Australia Vs Afghanistan,Afghanistan,4,Gulbadin Naib,run out (Maxwell),39,23,3,2,169.56,out
+Australia Vs Afghanistan,Afghanistan,5,Mohammad Nabi(c),c Warner b Hazlewood,1,2,0,0,50.00,out
+Australia Vs Afghanistan,Afghanistan,6,Najibullah Zadran,c Maxwell b Zampa,0,2,0,0,0.00,out
+Australia Vs Afghanistan,Afghanistan,7,Darwish Rasooli,run out (â€ Wade/Stoinis),15,13,1,0,115.38,out
+Australia Vs Afghanistan,Afghanistan,8,Rashid Khan,,48,23,3,4,208.69,not_out
+Australia Vs Afghanistan,Afghanistan,9,Naveen-ul-Haq,,0,0,0,0,-,not_out
+Sri Lanka Vs England,Sri Lanka,1,Pathum Nissanka,c sub (CJ Jordan) b Rashid,67,45,2,5,148.88,out
+Sri Lanka Vs England,Sri Lanka,2,Kusal Mendisâ€ ,c Livingstone b Woakes,18,14,1,1,128.57,out
+Sri Lanka Vs England,Sri Lanka,3,Dhananjaya de Silva,c Stokes b Curran,9,11,0,0,81.81,out
+Sri Lanka Vs England,Sri Lanka,4,Charith Asalanka,c Malan b Stokes,8,9,0,0,88.88,out
+Sri Lanka Vs England,Sri Lanka,5,Bhanuka Rajapaksa,c Curran b Wood,22,22,3,0,100.00,out
+Sri Lanka Vs England,Sri Lanka,6,Dasun Shanaka(c),c â€ Buttler b Wood,3,8,0,0,37.50,out
+Sri Lanka Vs England,Sri Lanka,7,Wanindu Hasaranga de Silva,run out (â€ Buttler/Wood),9,9,1,0,100.00,out
+Sri Lanka Vs England,Sri Lanka,8,Chamika Karunaratne,c Hales b Wood,0,2,0,0,0.00,out
+Sri Lanka Vs England,Sri Lanka,9,Maheesh Theekshana,,0,0,0,0,-,not_out
+Sri Lanka Vs England,England,1,Jos Buttler(c)â€ ,c Karunaratne b PWH de Silva,28,23,2,1,121.73,out
+Sri Lanka Vs England,England,2,Alex Hales,c & b PWH de Silva,47,30,7,1,156.66,out
+Sri Lanka Vs England,England,3,Ben Stokes,,42,36,2,0,116.66,not_out
+Sri Lanka Vs England,England,4,Harry Brook,c & b DM de Silva,4,5,0,0,80.00,out
+Sri Lanka Vs England,England,5,Liam Livingstone,c DM de Silva b Kumara,4,6,0,0,66.66,out
+Sri Lanka Vs England,England,6,Moeen Ali,c Shanaka b DM de Silva,1,5,0,0,20.00,out
+Sri Lanka Vs England,England,7,Sam Curran,c Rajitha b Kumara,6,11,0,0,54.54,out
+Sri Lanka Vs England,England,8,Chris Woakes,,5,3,1,0,166.66,not_out
+Netherlands Vs South Africa,Netherlands,1,Stephan Myburgh,c Rossouw b Markram,37,30,7,0,123.33,out
+Netherlands Vs South Africa,Netherlands,2,Max O'Dowd,c Rabada b Maharaj,29,31,1,1,93.54,out
+Netherlands Vs South Africa,Netherlands,3,Tom Cooper,c â€ de Kock b Maharaj,35,19,2,2,184.21,out
+Netherlands Vs South Africa,Netherlands,4,Colin Ackermann,,41,26,3,2,157.69,not_out
+Netherlands Vs South Africa,Netherlands,5,Bas de Leede, b Nortje,1,7,0,0,14.28,out
+Netherlands Vs South Africa,Netherlands,6,Scott Edwards(c)â€ ,,12,7,2,0,171.42,not_out
+Netherlands Vs South Africa,South Africa,1,Quinton de Kockâ€ ,c â€ Edwards b Klaassen,13,13,1,1,100.00,out
+Netherlands Vs South Africa,South Africa,2,Temba Bavuma(c), b van Meekeren,20,20,2,0,100.00,out
+Netherlands Vs South Africa,South Africa,3,Rilee Rossouw,c O'Dowd b Glover,25,19,2,0,131.57,out
+Netherlands Vs South Africa,South Africa,4,Aiden Markram,c Myburgh b Klaassen,17,13,2,0,130.76,out
+Netherlands Vs South Africa,South Africa,5,David Miller,c van der Merwe b Glover,17,17,1,0,100.00,out
+Netherlands Vs South Africa,South Africa,6,Heinrich Klaasen,c van Beek b de Leede,21,18,0,1,116.66,out
+Netherlands Vs South Africa,South Africa,7,Wayne Parnell,c â€ Edwards b Glover,0,2,0,0,0.00,out
+Netherlands Vs South Africa,South Africa,8,Keshav Maharaj,c O'Dowd b de Leede,13,12,0,1,108.33,out
+Netherlands Vs South Africa,South Africa,9,Kagiso Rabada,,9,8,0,0,112.50,not_out
+Netherlands Vs South Africa,South Africa,10,Anrich Nortje,,4,1,1,0,400.00,not_out
+Bangladesh Vs Pakistan,Bangladesh,1,Najmul Hossain Shanto, b Iftikhar Ahmed,54,48,7,0,112.50,out
+Bangladesh Vs Pakistan,Bangladesh,2,Litton Das,c Shan Masood b Shaheen Shah Afridi,10,8,0,1,125.00,out
+Bangladesh Vs Pakistan,Bangladesh,3,Soumya Sarkar,c Shan Masood b Shadab Khan,20,17,1,1,117.64,out
+Bangladesh Vs Pakistan,Bangladesh,4,Shakib Al Hasan(c),lbw b Shadab Khan,0,1,0,0,0.00,out
+Bangladesh Vs Pakistan,Bangladesh,5,Afif Hossain,,24,20,3,0,120.00,not_out
+Bangladesh Vs Pakistan,Bangladesh,6,Mosaddek Hossain, b Shaheen Shah Afridi,5,11,0,0,45.45,out
+Bangladesh Vs Pakistan,Bangladesh,7,Nurul Hasanâ€ ,c Mohammad Haris b Shaheen Shah Afridi,0,3,0,0,0.00,out
+Bangladesh Vs Pakistan,Bangladesh,8,Taskin Ahmed,c Babar Azam b Shaheen Shah Afridi,1,5,0,0,20.00,out
+Bangladesh Vs Pakistan,Bangladesh,9,Nasum Ahmed,c Mohammad Wasim b Haris Rauf,7,6,1,0,116.66,out
+Bangladesh Vs Pakistan,Bangladesh,10,Mustafizur Rahman,,0,1,0,0,0.00,not_out
+Bangladesh Vs Pakistan,Pakistan,1,Mohammad Rizwanâ€ ,c Najmul Hossain Shanto b Ebadot Hossain,32,32,2,1,100.00,out
+Bangladesh Vs Pakistan,Pakistan,2,Babar Azam(c),c Mustafizur Rahman b Nasum Ahmed,25,33,2,0,75.75,out
+Bangladesh Vs Pakistan,Pakistan,3,Mohammad Nawaz,run out (Litton Das),4,11,0,0,36.36,out
+Bangladesh Vs Pakistan,Pakistan,4,Mohammad Haris,c Nasum Ahmed b Shakib Al Hasan,31,18,1,2,172.22,out
+Bangladesh Vs Pakistan,Pakistan,5,Shan Masood,,24,14,2,0,171.42,not_out
+Bangladesh Vs Pakistan,Pakistan,6,Iftikhar Ahmed,c Najmul Hossain Shanto b Mustafizur Rahman,1,3,0,0,33.33,out
+Bangladesh Vs Pakistan,Pakistan,7,Shadab Khan,,0,0,0,0,-,not_out
+India Vs Zimbabwe,India,1,KL Rahul,c Masakadza b Sikandar Raza,51,35,3,3,145.71,out
+India Vs Zimbabwe,India,2,Rohit Sharma(c),c Masakadza b Muzarabani,15,13,2,0,115.38,out
+India Vs Zimbabwe,India,3,Virat Kohli,c Burl b Williams,26,25,2,0,104.00,out
+India Vs Zimbabwe,India,4,Suryakumar Yadav,,61,25,6,4,244.00,not_out
+India Vs Zimbabwe,India,5,Rishabh Pantâ€ ,c Burl b Williams,3,5,0,0,60.00,out
+India Vs Zimbabwe,India,6,Hardik Pandya,c Muzarabani b Ngarava,18,18,2,0,100.00,out
+India Vs Zimbabwe,India,7,Axar Patel,,0,0,0,0,-,not_out
+India Vs Zimbabwe,Zimbabwe,1,Wessly Madhevere,c Kohli b Kumar,0,1,0,0,0.00,out
+India Vs Zimbabwe,Zimbabwe,2,Craig Ervine(c),c & b Pandya,13,15,2,0,86.66,out
+India Vs Zimbabwe,Zimbabwe,3,Regis Chakabvaâ€ , b Arshdeep Singh,0,6,0,0,0.00,out
+India Vs Zimbabwe,Zimbabwe,4,Sean Williams,c Kumar b Mohammed Shami,11,18,0,1,61.11,out
+India Vs Zimbabwe,Zimbabwe,5,Sikandar Raza,c Yadav b Pandya,34,24,3,0,141.66,out
+India Vs Zimbabwe,Zimbabwe,6,Tony Munyonga,lbw b Mohammed Shami,5,4,1,0,125.00,out
+India Vs Zimbabwe,Zimbabwe,7,Ryan Burl, b Ashwin,35,22,5,1,159.09,out
+India Vs Zimbabwe,Zimbabwe,8,Wellington Masakadza,c Sharma b Ashwin,1,7,0,0,14.28,out
+India Vs Zimbabwe,Zimbabwe,9,Richard Ngarava, b Ashwin,1,2,0,0,50.00,out
+India Vs Zimbabwe,Zimbabwe,10,Tendai Chatara,c & b Patel,4,4,1,0,100.00,out
+India Vs Zimbabwe,Zimbabwe,11,Blessing Muzarabani,,0,2,0,0,0.00,not_out
+New Zealand Vs Pakistan,New Zealand,1,Finn Allen,lbw b Shaheen Shah Afridi,4,3,1,0,133.33,out
+New Zealand Vs Pakistan,New Zealand,2,Devon Conwayâ€ ,run out (Shadab Khan),21,20,3,0,105.00,out
+New Zealand Vs Pakistan,New Zealand,3,Kane Williamson(c), b Shaheen Shah Afridi,46,42,1,1,109.52,out
+New Zealand Vs Pakistan,New Zealand,4,Glenn Phillips,c & b Mohammad Nawaz,6,8,1,0,75.00,out
+New Zealand Vs Pakistan,New Zealand,5,Daryl Mitchell,,53,35,3,1,151.42,not_out
+New Zealand Vs Pakistan,New Zealand,6,James Neesham,,16,12,1,0,133.33,not_out
+New Zealand Vs Pakistan,Pakistan,1,Mohammad Rizwanâ€ ,c Phillips b Boult,57,43,5,0,132.55,out
+New Zealand Vs Pakistan,Pakistan,2,Babar Azam(c),c Mitchell b Boult,53,42,7,0,126.19,out
+New Zealand Vs Pakistan,Pakistan,3,Mohammad Haris,c Allen b Santner,30,26,2,1,115.38,out
+New Zealand Vs Pakistan,Pakistan,4,Shan Masood,,3,4,0,0,75.00,not_out
+New Zealand Vs Pakistan,Pakistan,5,Iftikhar Ahmed,,0,0,0,0,-,not_out
+India Vs England,India,1,KL Rahul,c â€ Buttler b Woakes,5,5,1,0,100.00,out
+India Vs England,India,2,Rohit Sharma(c),c Curran b Jordan,27,28,4,0,96.42,out
+India Vs England,India,3,Virat Kohli,c Rashid b Jordan,50,40,4,1,125.00,out
+India Vs England,India,4,Suryakumar Yadav,c Salt b Rashid,14,10,1,1,140.00,out
+India Vs England,India,5,Hardik Pandya,hit wicket b Jordan,63,33,4,5,190.90,out
+India Vs England,India,6,Rishabh Pantâ€ ,run out (â€ Buttler/Jordan),6,4,1,0,150.00,out
+India Vs England,India,7,Ravichandran Ashwin,,0,0,0,0,-,not_out
+India Vs England,England,1,Jos Buttler(c)â€ ,,80,49,9,3,163.26,not_out
+India Vs England,England,2,Alex Hales,,86,47,4,7,182.97,not_out
+Pakistan Vs England,Pakistan,1,Mohammad Rizwanâ€ , b Curran,15,14,0,1,107.14,out
+Pakistan Vs England,Pakistan,2,Babar Azam(c),c & b Rashid,32,28,2,0,114.28,out
+Pakistan Vs England,Pakistan,3,Mohammad Haris,c Stokes b Rashid,8,12,1,0,66.66,out
+Pakistan Vs England,Pakistan,4,Shan Masood,c Livingstone b Curran,38,28,2,1,135.71,out
+Pakistan Vs England,Pakistan,5,Iftikhar Ahmed,c â€ Buttler b Stokes,0,6,0,0,0.00,out
+Pakistan Vs England,Pakistan,6,Shadab Khan,c Woakes b Jordan,20,14,2,0,142.85,out
+Pakistan Vs England,Pakistan,7,Mohammad Nawaz,c Livingstone b Curran,5,7,0,0,71.42,out
+Pakistan Vs England,Pakistan,8,Mohammad Wasim,c Livingstone b Jordan,4,8,0,0,50.00,out
+Pakistan Vs England,Pakistan,9,Shaheen Shah Afridi,,5,3,1,0,166.66,not_out
+Pakistan Vs England,Pakistan,10,Haris Rauf,,1,1,0,0,100.00,not_out
+Pakistan Vs England,England,1,Jos Buttler(c)â€ ,c â€ Mohammad Rizwan b Haris Rauf,26,17,3,1,152.94,out
+Pakistan Vs England,England,2,Alex Hales, b Shaheen Shah Afridi,1,2,0,0,50.00,out
+Pakistan Vs England,England,3,Phil Salt,c Iftikhar Ahmed b Haris Rauf,10,9,2,0,111.11,out
+Pakistan Vs England,England,4,Ben Stokes,,52,49,5,1,106.12,not_out
+Pakistan Vs England,England,5,Harry Brook,c Shaheen Shah Afridi b Shadab Khan,20,23,1,0,86.95,out
+Pakistan Vs England,England,6,Moeen Ali, b Mohammad Wasim,19,13,3,0,146.15,out
+Pakistan Vs England,England,7,Liam Livingstone,,1,1,0,0,100.00,not_out
